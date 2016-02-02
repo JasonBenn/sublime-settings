@@ -1,0 +1,5 @@
+[
+  { "keys": ["super+n"], "command": "advanced_new_file_new"},
+  { "keys": ["super+r"], "command": "reveal_in_side_bar" },
+  { "keys": ["super+b"], "command": "goto_definition" }
+]
